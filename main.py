@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 import mainWindow
 import mbr_parser
 
+
 def read_mbr(disk_path):
     try:
         with open(disk_path, "rb") as disk:
