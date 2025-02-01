@@ -14,8 +14,6 @@ MBR_parser
 ├── mbr_parser.ico  # 项目图标文件
 ├── mbr_parser.py   # MBR解析程序文件
 └── requirements.txt    # 项目依赖库文件
-
-
 ```
 ### 项目运行方式：
 1. 安装依赖库
